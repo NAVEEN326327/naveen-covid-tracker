@@ -10,3 +10,13 @@ body{
     flex-direction: column;
 
 }
+
+@media (max-width: 756px){
+    .container{
+        margin: 0 10px;
+    }
+
+    img{
+        width: 80%;
+    }
+}
